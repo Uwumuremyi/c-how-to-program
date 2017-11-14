@@ -1,11 +1,17 @@
+/* A first program in c */
+
 #include <stdio.h>
 
 int main( void )
 
 {
 
-	printf("Welcome to c!\n");
+	/* funtiion main bigin program execution */
 
-	return 0;
+	printf("Welcome to C!\n");
 
-}
+	return 0; /* indicate that program ended successfully */
+
+} /* end fuunction main */
+
+
